@@ -1,0 +1,11 @@
+body {
+  background-color : #2ecc71;
+}
+
+.preview {
+  background-color : #3498db;
+}
+
+textarea, .preview {
+  min-height : 300px
+}
